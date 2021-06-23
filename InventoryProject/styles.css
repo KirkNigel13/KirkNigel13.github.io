@@ -1,0 +1,73 @@
+html{
+width:100%;
+height:100%;
+}
+
+.navbar{
+    box-shadow: 0px 0px 5px 0px;
+
+}
+
+.navbar-brand{
+    padding-left: 15px;
+    font-family: 'Righteous', cursive;
+    /* margin:auto */
+}
+
+.navbar-nav{
+    margin: auto;
+}
+
+
+.form-control{
+border-radius: 2rem;
+width: 100%;
+margin: auto;
+}
+
+.d-flex{
+    width: 35%;
+    margin: 5px 1px 5px 1px;
+}
+
+.pagecontent{
+    width: 100%;
+    margin-top: 0.74rem;
+    background-color: #f0f0f0;
+    border-radius: 0.40rem;
+}
+
+.padded{
+    padding: 15px;
+}
+
+.bg-white{
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-color: #dee2e6 #dee2e6 transparent #dee2e6 ;
+    margin-top: -1px;
+}
+
+.nav-link{
+color: #c7c7c7;
+}
+
+.active-page{
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 1.1rem;
+}
+
+.nav-link:hover{
+    color: #ffffff;
+    }
+
+.tab-text{
+    font-size: 20px;
+font-weight: 600;
+}
+
+.nav-active-tab{
+    background-color: aqua;
+    color: darkcyan;
+}
